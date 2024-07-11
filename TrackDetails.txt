@@ -1,0 +1,23 @@
+Bahrain &Extreme& 5.412 & 57 &Bahrain International Circuit
+Jeddah &Medium& 6.174 & 50 &Jeddah Corniche Circuit
+Melbourne &Medium& 5.278 & 58 &Albert Park Circuit
+Azerbaijan &Low& 6.003 & 51 &Baku City Circuit
+Miami &Medium& 5.412 & 57 &Miami International Autodrome
+Imola &High& 4.909 & 63 &Autodromo Enzo e Dino Ferrari
+Monte Carlo &Low& 3.337 & 78 &Circuit de Monaco
+Barcelona &Very High& 4.657 & 66 &Circuit de Barcelona-Catalunya
+Montreal &Medium& 4.361 & 70 &Circuit Gilles-Villeneuve
+Spielberg &Very High& 4.318 & 71 &Red Bull Ring
+England &High& 5.891 & 52 &Silverstone Circuit
+Budapest &Medium& 4.381 & 70 &Hungaroring
+Belgium &Very High& 7.004 & 44 &Circuit de Spa-Francorchamps
+Netherlands &High& 4.259 & 72 &Circuit Zandvoort
+Monza &High& 5.793 & 51 &Autodromo Nazionale Monza
+Singapore &High& 4.94 & 62 &Marina Bay Street Circuit
+Japan &Very High& 5.807 & 53 &Suzuka International Racing Course
+Qatar &High& 5.419 & 57 &Lusail International Circuit
+Austin &Very High& 5.513 & 56 &Circuit of The Americas
+Mexico &Medium& 4.304 & 71 &Autodromo Hermanos Rodriguez
+Brazil &Very High& 4.309 & 71 &Autodromo Jose Carlos Pace
+Las Vegas &High& 6.201 & 50 &Las Vegas Strip Circuit
+Abu Dhabi &High& 5.281 & 58 &Yas Marina Circuit
