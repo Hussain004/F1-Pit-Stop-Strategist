@@ -1,5 +1,7 @@
 <h1> F1 Pit Stop Strategist </h1>
 
+![homepage](demo/img1.png)
+
 <h2> Overview </h2>
 
 The F1 Pit Stop Strategist is a tool that helps Formula 1 teams optimize their pit stop strategies for any given race track and car setup. It takes into account various factors such as track conditions, car performance, and weather to provide the most effective pit stop strategy.
@@ -11,6 +13,8 @@ The F1 Pit Stop Strategist is a tool that helps Formula 1 teams optimize their p
 - Calculates optimal pit stop timing and tire/fuel strategy
 - Provides detailed analysis of the calculated strategy
  -Utilizes the termcolor library for colorized terminal output
+
+ ![result](demo/img6.png)
 
 <h2> Usage </h2>
 To use the F1 Pit Stop Strategist, follow these steps:
